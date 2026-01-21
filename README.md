@@ -10,3 +10,6 @@ Dosyalar:
 - counter.py : IP adreslerini sayan Python dosyası
 
 Bu proje tamamen öğrenme amaçlıdır.
+
+Kurulum:
+Python 3 kurun, proje klasörüne gidin ve python counter.py çalıştırın.
